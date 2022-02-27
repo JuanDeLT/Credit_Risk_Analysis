@@ -7,10 +7,10 @@ This project was meant to analyze the results of a school district's standardize
 ## Results 
 
 ### Balanced Accuracy Scores
-Naive Random Oversampling Accuracy Score:       |  SMOTE Oversampling Accuracy Score: | Undersampling Accuracy score:
+Naive Random Oversampling Accuracy Score: 0.65 |  SMOTE Oversampling Accuracy Score: 0.64 | Undersampling Accuracy score: 0.52
 :-------------------------:|:-------------------------:|:--------------------:
 <img width="669" alt="NaiveRandomOversampling_acc_score" src="https://user-images.githubusercontent.com/89175578/155903914-6a340e07-6364-493d-a803-e5745c72c7c2.png">| <img width="667" alt="SMOTEOversampling_acc_score" src="https://user-images.githubusercontent.com/89175578/155903928-115a12fe-11fe-4d33-9e88-1943b4ebf74f.png">| <img width="665" alt="Undersampling_acc_score" src="https://user-images.githubusercontent.com/89175578/155903940-31275afb-5209-470d-b35a-5d4e2a711cf3.png">
-Combination (Over and Under) Sampling Accuracy Score: | Balanced Random Forest Classifier Accuracy Score: | Easy Ensemble AdaBoost Classifier Accuracy Score:
+Combination (Over and Under) Sampling Accuracy Score: 0.63 | Balanced Random Forest Classifier Accuracy Score: 0.79 | Easy Ensemble AdaBoost Classifier Accuracy Score: 0.93
 <img width="668" alt="CombinationSampling_acc_score" src="https://user-images.githubusercontent.com/89175578/155903869-ddbabf72-ea99-4840-851f-45c75a0a6fd3.png">| <img width="672" alt="BalanceRandomForestClassifier_acc_score" src="https://user-images.githubusercontent.com/89175578/155903855-dd1dc5c0-8049-4ed6-8050-67b1ee166483.png"> | <img width="662" alt="EasyEnsembleAdaBoostClassifier_acc_score" src="https://user-images.githubusercontent.com/89175578/155903887-4405c232-216c-4ed3-8f77-1ec969356ff2.png">
 
 ### Precision and Recall Scores 
@@ -23,49 +23,6 @@ Combination (Over and Under) Sampling Precision and Recall Scores Scores | Balan
 :-------------------------:|:-------------------------:|:--------------------:
 <img width="660" alt="CombinationSampling_precision_recall_scores" src="https://user-images.githubusercontent.com/89175578/155904011-f3d0a807-f488-46b1-885e-7d681034b184.png">|<img width="663" alt="BalancedRandomForestClassifier_precision_recall_scores" src="https://user-images.githubusercontent.com/89175578/155904028-1b01927f-3e33-471c-99b0-43befe5d49f1.png">|<img width="665" alt="EasyEnsembleAdaBoostClassifier_precision_recall_scores" src="https://user-images.githubusercontent.com/89175578/155904034-19610053-1ece-49e9-aff6-367ff933bc66.png">
 |- High Precision Score: </br> - Low Precision Score: </br> - Avg. Precision Score: </br> - High Recall Score: </br> - Low Recall Score: </br> - Avg. Recall Score: |- High Precision Score: </br> - Low Precision Score: </br> - Avg. Precision Score: </br> - High Recall Score: </br> - Low Recall Score: </br> - Avg. Recall Score: |- High Precision Score: </br> - Low Precision Score: </br> - Avg. Precision Score: </br> - High Recall Score: </br> - Low Recall Score: </br> - Avg. Recall Score: |
-
-- Naive Random Oversampling
-- High Precision Score:
-- Low Precision Score:
-- Average Precisions Score:
-- High Recall Score:
-- Low Recall Score:
-- Average Recall Score:
-- SMOTE Oversampling
-    - High Precision Score:
-    - Low Precision Score:
-    - Average Precisions Score:
-    - High Recall Score:
-    - Low Recall Score:
-    - Average Recall Score:
-- Undersampling
-    - High Precision Score:
-    - Low Precision Score:
-    - Average Precisions Score:
-    - High Recall Score:
-    - Low Recall Score:
-    - Average Recall Score:
-- Combination (Over and Under) Sampling
-    - High Precision Score:
-    - Low Precision Score:
-    - Average Precisions Score:
-    - High Recall Score:
-    - Low Recall Score:
-    - Average Recall Score:
-- Balanced Random Forest Classifier
-    - High Precision Score:
-    - Low Precision Score:
-    - Average Precisions Score:
-    - High Recall Score:
-    - Low Recall Score:
-    - Average Recall Score:
-- Easy Ensemble AdaBoost Classifier
-    - High Precision Score:
-    - Low Precision Score:
-    - Average Precisions Score:
-    - High Recall Score:
-    - Low Recall Score:
-    - Average Recall Score:
 
 
 ## Summary of Re-analysis.
