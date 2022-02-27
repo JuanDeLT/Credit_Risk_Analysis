@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-This project was meant to analyze the results of a school district's standardized testing in order to find trends related to school size, type, and funding. This was done in order to provide the information necessary to make better decisions in the upcoming funding cycle. Unfortunately due to a case of academic dishonesty in one of the scools 9th graders' another analysis had to be performed excluding said school in order to have an accurate count of results with that school's 9th graders removed.
+This Project is meant to test different machine learning models to determine which would be the best for analyzing credit risk.
 
 ## Results 
 
@@ -25,9 +25,6 @@ Combination (Over and Under) Sampling Precision and Recall Scores Scores | Balan
 |- High Precision Score: 0.01 </br> - Low Precision Score: 1.00 </br> - Avg. Precision Score: 0.99 </br> - High Recall Score: 0.68 </br> - Low Recall Score: 0.58 </br> - Avg. Recall Score: 0.58 |- High Precision Score: 0.04 </br> - Low Precision Score:  1.00 </br> - Avg. Precision Score: 0.99 </br> - High Recall Score: 0.67 </br> - Low Recall Score: 0.91 </br> - Avg. Recall Score: 0.91 |- High Precision Score: 0.07 </br> - Low Precision Score: 1.00 </br> - Avg. Precision Score: 0.99 </br> - High Recall Score: 0.91 </br> - Low Recall Score: 0.94 </br> - Avg. Recall Score: 0.94 |
 
 
-## Summary of Re-analysis.
-
-- summarize results of machine learning model
-- recommendation on the model to use
-    - justification 
+## Summary
+The strongest model was the Easy Ensemble AdoBoost Classifier due to its accuracy score of 93%. It also had the highest recall scores of all the models. Due to these facts I would use this model to predict credit risk.
 
