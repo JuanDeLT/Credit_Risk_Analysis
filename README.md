@@ -17,18 +17,20 @@ Combination (Over and Under) Sampling Accuracy Score: | Balanced Random Forest C
 Naive Random Oversampling Precision and Recall Scores        |  SMOTE Oversampling Precision and Recall Scores Scores | Undersampling Precision and Recall Scores scores
 :-------------------------:|:-------------------------:|:--------------------:
 <img width="666" alt="NaiveOversampling_precision_recall_scores" src="https://user-images.githubusercontent.com/89175578/155903985-c1ecc80a-5de5-4de0-9f09-2d16ed479f73.png">| <img width="663" alt="SMOTEOversampling_precision_recall_scores" src="https://user-images.githubusercontent.com/89175578/155903993-ff60fd0e-8a6a-424d-b108-04f6a89170d4.png">|<img width="666" alt="Undersampling_precision_recall_scores" src="https://user-images.githubusercontent.com/89175578/155904001-861c2fc0-fb76-4804-829b-4b49470b768b.png">
+|- High Precision Score: </br> - Low Precision Score: </br> - Avg. Precision Score: </br> - High Recall Score: </br> - Low Recall Score: </br> - Avg. Recall Score: |- High Precision Score: </br> - Low Precision Score: </br> - Avg. Precision Score: </br> - High Recall Score: </br> - Low Recall Score: </br> - Avg. Recall Score: |- High Precision Score: </br> - Low Precision Score: </br> - Avg. Precision Score: </br> - High Recall Score: </br> - Low Recall Score: </br> - Avg. Recall Score: |
 
 Combination (Over and Under) Sampling Precision and Recall Scores Scores | Balanced Random Forest Classifier Precision and Recall Scores Score | Easy Ensemble AdaBoost Classifier Precision and Recall Scores Score
 :-------------------------:|:-------------------------:|:--------------------:
 <img width="660" alt="CombinationSampling_precision_recall_scores" src="https://user-images.githubusercontent.com/89175578/155904011-f3d0a807-f488-46b1-885e-7d681034b184.png">|<img width="663" alt="BalancedRandomForestClassifier_precision_recall_scores" src="https://user-images.githubusercontent.com/89175578/155904028-1b01927f-3e33-471c-99b0-43befe5d49f1.png">|<img width="665" alt="EasyEnsembleAdaBoostClassifier_precision_recall_scores" src="https://user-images.githubusercontent.com/89175578/155904034-19610053-1ece-49e9-aff6-367ff933bc66.png">
+|- High Precision Score: </br> - Low Precision Score: </br> - Avg. Precision Score: </br> - High Recall Score: </br> - Low Recall Score: </br> - Avg. Recall Score: |- High Precision Score: </br> - Low Precision Score: </br> - Avg. Precision Score: </br> - High Recall Score: </br> - Low Recall Score: </br> - Avg. Recall Score: |- High Precision Score: </br> - Low Precision Score: </br> - Avg. Precision Score: </br> - High Recall Score: </br> - Low Recall Score: </br> - Avg. Recall Score: |
 
 - Naive Random Oversampling
-    - High Precision Score:
-    - Low Precision Score:
-    - Average Precisions Score:
-    - High Recall Score:
-    - Low Recall Score:
-    - Average Recall Score:
+- High Precision Score:
+- Low Precision Score:
+- Average Precisions Score:
+- High Recall Score:
+- Low Recall Score:
+- Average Recall Score:
 - SMOTE Oversampling
     - High Precision Score:
     - Low Precision Score:
